@@ -24,3 +24,12 @@ This project contains character list and character details of Rick and Morty.
 1. This project can be further optimised by using Hilt / Dagger for dependency injection
 2. Unit test cases is pending.
 
+## Screenshots
+
+![Character List](https://github.com/abhinavsingh1998/RickAndMorty2/assets/88830847/e0e485c4-7d85-40bc-bee5-13e27647e856)
+
+![Character Detail (FAV)](https://github.com/abhinavsingh1998/RickAndMorty2/assets/88830847/14a7ddfe-5d07-43e4-b662-00f67e802973)
+
+![Character Detail (NON FAV)](https://github.com/abhinavsingh1998/RickAndMorty2/assets/88830847/499dbed5-fc62-4a50-b1d1-a3c37116f688)
+
+
